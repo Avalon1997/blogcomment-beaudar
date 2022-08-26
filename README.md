@@ -1,2 +1,2 @@
 # blogcomment-beaudar
-a comment plugin for my hexo blog
+A comment plugin for my hexo blog
